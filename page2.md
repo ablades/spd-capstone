@@ -7,13 +7,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="page2.html">Page 2</a>
+          <a class="nav-link" href="index.md">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="page3.html">Page 3</a>
+          <a class="nav-link" href="page2.md">Page 2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page3.md">Page 3</a>
         </li>
       </ul>
     </div>
